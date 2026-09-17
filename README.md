@@ -72,17 +72,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=n0-Nickname&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/n0-Nickname/n0-Nickname/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=n0-Nickname&theme=darkhub&no-frame=true&no-bg=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
