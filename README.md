@@ -14,30 +14,82 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
-<!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header)
+# `n0-Nickname`
 
-<!-- Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Building+things+that+actually+work)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Distributed+Systems+%7C+Networking;Building+things+that+actually+work)
 
-<!-- Tech stack -->
-![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,github,nginx)
+<br>
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=n0-Nickname&style=for-the-badge&color=blue)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true)
+</div>
 
-<!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&hide_border=true)
+---
 
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&no-frame=true&no-bg=true&margin-w=4)
+## Tech Stack
 
-<!-- Profile views -->
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square)
+<div align="center">
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Go](https://skillicons.dev/icons?i=go)
+![Rust](https://skillicons.dev/icons?i=rust)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=n0-Nickname&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0-Nickname&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=n0-Nickname&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=n0-Nickname&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/n0-Nickname/n0-Nickname/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer)
+
+</div>
