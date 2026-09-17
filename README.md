@@ -1,60 +1,34 @@
-## Hi there 👋
-
-<!--
-**n0-Nickname/n0-Nickname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-# `n0-Nickname`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=n0-Nickname&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=gradient" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Distributed+Systems+%7C+Networking;Building+things+that+actually+work)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Distributed+Systems+%7C+Networking;Linux+%7C+Docker+%7C+Git" />
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=n0-Nickname&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=n0-Nickname&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br>
 
 ## Tech Stack
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Go](https://skillicons.dev/icons?i=go)
-![Rust](https://skillicons.dev/icons?i=rust)
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,nginx,go,rust&perline=10" />
 
 </div>
 
----
+<br>
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=n0-Nickname&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=n0-Nickname&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0-Nickname&layout=compact&hide_border=true&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0-Nickname&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
 </div>
 
@@ -62,24 +36,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=n0-Nickname&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=n0-Nickname&theme=github-dark-blue&hide_border=true&mode=weekly" />
 
 </div>
 
----
-
-## GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=n0-Nickname&theme=darkhub&no-frame=true&no-bg=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 
 </div>
